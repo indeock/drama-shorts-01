@@ -1,0 +1,357 @@
+등장인물:
+  kang_junhyuk:
+    name_kr: "강준혁"
+    ...
+
+  park_minju:
+    name_kr: "박민주"
+    role: "18세, 트라우마로 내면이 거칠어진 조력자 — 겉은 모범생, 속은 복수심"
+    signature:
+      hair:
+        style: "long straight chestnut‑brown twin ponytails"
+        strand_detail: "two even high ponytails tied with thin black elastics, a few face‑framing wisps"
+        meaning: "attempt at girlish normalcy masking turmoil"
+      face:
+        age: "18"
+        skin: "pale, faint acne scars concealed under light base"
+        features: "soft oval face, straight nose, full lips"
+        expression: "subdued, eyes hardened when unobserved"
+        makeup:
+          eyebrows: "precisely drawn soft‑brown arches"
+          lips: "muted rose matte tint"
+      body:
+        build: "165 cm, slender but tense shoulders"
+      outfit:
+        blazer: "standard navy school blazer identical in color and cut to Jung Sia’s but regular wool‑blend fabric, worn open with casually rolled cuffs"
+        blouse: "white Egyptian‑cotton blouse, top two buttons undone at rebellious angle"
+        ribbon_tie: "wine‑red silk ribbon loosely knotted, tonal jacquard logo pattern"
+        skirt: "navy pleated skirt, slightly shorter than regulation but matching school fabric"
+        shoes: "black loafers with scuffed toes and mismatched black ankle socks"
+      accessories:
+        earphones: "white wired earphones plugged into pocketed old smartphone, cords visible against blazer"
+        ring: "thin silver band worn on right middle finger — subtle statement of resistance"
+      cues:
+        isolation_signal: "twirls earphone cord around finger when anxious, taps silver ring against phone"
+        blouse: "white Egyptian‑cotton blouse, top two buttons undone at rebellious angle"
+        ribbon_tie: "wine‑red silk ribbon loosely knotted, tonal jacquard logo pattern"
+        skirt: "navy pleated skirt, marginally shorter than regulation but matching school fabric"
+        shoes: "black loafers with scuffed toes and mismatched black ankle socks"
+      accessories:
+        earphones: "white wired earphones plugged into pocketed old smartphone, cords visible against blazer"
+        ring: "thin silver band worn on right middle finger — subtle statement of resistance"
+      cues:
+        isolation_signal: "twirls earphone cord around finger when anxious, taps silver ring against phone"
+
+  kim_gijun:
+    name_kr: "김기준"
+    role: "18세, 고3 학구파 모범생 — 강준혁의 또 다른 고등학교 조력자"
+    signature:
+      hair:
+        style: "neatly combed short side‑part"
+        strand_detail: "every strand in place, slight volume on crown"
+        meaning: "discipline and academic diligence"
+      face:
+        age: "18"
+        skin: "clear ivory complexion, faint under‑eye shadows from late‑night study"
+        features: "oval face, straight brows, slim rectangular black‑acetate glasses"
+        expression: "quiet focus, lips pressed in thought"
+      body:
+        build: "178 cm, slender with slightly stooped shoulders from reading"
+      outfit:
+        blazer: "standard navy school blazer identical in design to Jung Sia’s but regular wool‑blend fabric, impeccably pressed"
+        shirt: "crisp white Egyptian‑cotton shirt, collar perfectly ironed"
+        ribbon_tie: "wine‑red silk ribbon tie in tight symmetrical knot"
+        trousers: "navy worsted‑wool slacks with razor‑sharp creases"
+        shoes: "black leather derbies, polished to mirror shine"
+      accessories:
+        pen: "black resin fountain pen clipped to blazer pocket"
+        book: "hardcover physics textbook carried under left arm"
+      cues:
+        study_adjust: "pushes glasses up bridge with index finger before answering"
+        shirt: "crisp white Egyptian‑cotton shirt, collar perfectly ironed"
+        ribbon_tie: "wine‑red silk ribbon tie in tight symmetrical knot"
+        trousers: "navy worsted‑wool slacks with razor‑sharp creases"
+        shoes: "black leather derbies, polished to mirror shine"
+      accessories:
+        pen: "black resin fountain pen clipped to blazer pocket"
+        book: "hardcover physics textbook carried under left arm"
+      cues:
+        study_adjust: "pushes glasses up bridge with index finger before answering"
+
+  lee_cheoljin:
+    name_kr: "이철진"
+    role: "35세, 일진 9인 몰락 버전 — 과거 보스 격"
+    signature:
+      hair:
+        style: "mohawk-style crew cut — shaved sides and back, thick front crest brushed upward"
+        strand_detail: "coarse bristles kept stiff with gel"
+        meaning: "clinging to past intimidation"
+      face:
+        age: "35"
+        skin: "greasy with enlarged pores, dark eyebags"
+        features: "flattened nose bridge from old fights, crooked front tooth"
+        expression: "twitchy grin, manic eyes"
+      body:
+        build: "175 cm, protruding belly over faded muscle"
+        posture: "slumped shoulders, restless shifting weight"
+      outfit:
+        top: "stretched black faux-leather bomber jacket with peeling print"
+        undershirt: "faded graphic tee – 90s metal band logo"
+        trousers: "loose dark‑denim jeans, frayed hems"
+        shoes: "worn black high‑top sneakers, untied laces"
+      accessories:
+        lighter: "scratched brass Zippo with crude skull engraving — constant fidget"
+        necklace: "chunky 18k gold curb chain"
+        bracelet: "matching 18k gold curb bracelet on left wrist"
+        ring: "thick 18k gold pinky ring with faux diamond, right hand"
+      cues:
+        zippo_click: "flicking Zippo lid repeatedly when agitated"  
+
+
+  kang_minsu:
+    name_kr: "강민수"
+    role: "35세, 일진 9인 몰락 버전 — 이철진의 오른팔"
+    signature:
+      hair:
+        style: "buzz cut with double crimson racing stripes"
+        strand_detail: "two diagonal red‑dyed grooves shaved across right side"
+        meaning: "aggression and need for speed"
+      outfit:
+        jacket: "lightweight black windbreaker with oversized white skull patch on back, large hood"
+        pants: "black cargo joggers"
+        shoes: "dirty red high‑top sneakers"
+   ...
+
+  choi_donghun:
+    name_kr: "최동훈"
+    role: "35세, 일진 9인 몰락 버전 — 과거 4번 타자, 허세 잔존"
+    signature:
+      hair:
+        style: "shaggy bleach‑blond mullet with black underlayer"
+        strand_detail: "uneven bleached tips, short crown, long tail swishes"
+        meaning: "rebellious youth clung to despite age"
+      face:
+        age: "35"
+        skin: "ruddy, sun‑damaged with fine lines"
+        expression: "lazy smirk, toothpick between lips"
+      body:
+        build: "180 cm, broad but slightly softened frame"
+      outfit:
+        jacket: "navy varsity baseball jacket with white leather sleeves, collar frayed — identical design remains since youth"
+        armband: "yellow CAUTION tape wrapped around left bicep as personal emblem"
+        trousers: "faded black jeans, torn knees"
+        shoes: "dirty white high‑top sneakers"
+      accessories:
+        identity_marker: "varsity jacket + CAUTION tape armband act as unmistakable personal insignia — no need to carry bat"
+      cues:
+        jacket_flick: "snaps varsity jacket collar when asserting dominance"
+
+  kang_minsu:
+    name_kr: "강민수"
+    role: "35세, 일진 9인 몰락 버전 — 이철진의 오른팔"
+    signature:
+      hair:
+        style: "buzz cut with double crimson racing stripes"
+        strand_detail: "two diagonal red‑dyed grooves shaved across right side"
+        meaning: "aggression and need for speed"
+      outfit:
+        jacket: "oversized black puffer jacket with white skull patch on back"
+        trousers: "faded black cargo pants, chain dangling"
+    cues:
+      look_signature: "red racing‑stripe buzz cut + skull puffer"
+
+  han_dongmin:
+    name_kr: "한동민"
+    role: "35세, 일진 9인 몰락 버전 — 과거 투수"
+    signature:
+      hair:
+        style: "bright tangerine curly perm"
+        strand_detail: "tight curls bouncing wildly"
+        meaning: "showboating flair"
+      outfit:
+        vest: "ripped denim vest covered in spray‑paint graffiti tags"
+        hoodie: "gray sleeveless hoodie underneath"
+    cues:
+      look_signature: "orange perm + graffiti denim vest"
+
+  park_jungwoo:
+    name_kr: "박정우"
+    role: "35세, 일진 9인 몰락 버전 — 꾀돌이"
+    signature:
+      hair:
+        style: "slicked back jet‑black undercut with lightning scalp line"
+        strand_detail: "razor‑shaved zig‑zag parting left temple"
+        meaning: "scheming mind, sharp"
+      outfit:
+        jacket: "neon lime windbreaker half‑zipped"
+        trousers: "navy track pants with reflective side strips"
+    cues:
+      look_signature: "lightning scalp line + neon windbreaker"
+
+  yoon_sungho:
+    name_kr: "윤성호"
+    role: "35세, 일진 9인 몰락 버전 — 호랑이 패거리"
+    signature:
+      hair:
+        style: "silver top fade over black sides"
+        strand_detail: "bleached silver pompadour, sides dark and tight"
+        meaning: "wannabe alpha"
+      outfit:
+        jacket: "black faux‑leather biker jacket with roaring tiger embroidery on back"
+        trousers: "distressed gray jeans"
+    cues:
+      look_signature: "silver pompadour + tiger biker jacket"
+
+  kim_sangtae:
+    name_kr: "김상태"
+    role: "35세, 일진 9인 몰락 버전 — 패션 과시꾼"
+    signature:
+      hair:
+        style: "bleached bowl cut with blunt fringe"
+        strand_detail: "platinum blond, straight‑as‑ruler fringe"
+        meaning: "childish stubbornness"
+      outfit:
+        tracksuit: "purple velour tracksuit with white racing stripes"
+    cues:
+      look_signature: "platinum bowl cut + purple velour tracksuit"
+
+  seo_jinhyuk:
+    name_kr: "서진혁"
+    role: "35세, 일진 9인 몰락 버전 — 잠복 추종자"
+    signature:
+      hair:
+        style: "half‑tied dread perm"
+        strand_detail: "thick dread‑like twists gathered into low ponytail"
+        meaning: "clinging chaos"
+      outfit:
+        jacket: "oversized camo cargo jacket with frayed edges"
+        trousers: "ripped black denim knees"
+    cues:
+      look_signature: "dread ponytail + camo cargo jacket"
+
+  lee_sujeong:
+    name_kr: "이수정"
+    role: "19세, 타락 후 정신분열 — 최문영을 모방, 죄수복과 진주 목걸이 타투"
+    signature:
+      hair:
+        style: "ragged chin-length bob"
+        strand_detail: "uneven blunt ends, strands sticking to cheeks"
+        meaning: "disintegration of self, forced imitation of mentor"
+      face:
+        age: "19"
+        skin: "sallow with pronounced dark circles"
+        expression: "vacant stare, sporadic twitch"
+      body:
+        build: "extremely thin, clavicles protruding, 164 cm"
+        posture: "hunched, fingers twitching"
+      outfit:
+        uniform: "bleached-orange prison jumpsuit, oversized on thin frame"
+        tattoo: "white pearl necklace inked around neck, some pearls smudged"
+      accessories:
+        earrings: "none — earlobes show scar tissue from previous piercings"
+      cues:
+        pearl_grasp: "fingers trace tattooed pearls when dissociating"
+
+  lee_sujeong_16:
+    name_kr: "어린 이수정"
+    role: "16세, 고1 시절 — 수줍고 통통한 모범생"
+    signature:
+      hair:
+        style: "neat twin ponytails"
+        strand_detail: "low twin braids tied with navy ribbons just behind ears"
+        meaning: "innocence and sheltered vulnerability"
+      face:
+        age: "16"
+        skin: "soft peachy tone, slight baby fat"
+        features: "round cheeks, small upturned nose, wide doe eyes"
+        expression: "gentle shy smile"
+      body:
+        build: "160 cm, plump with softer curves, healthy teenage weight"
+        posture: "slightly hunched shoulders, hands clasped in front when nervous"
+      outfit:
+        blazer: "standard navy school blazer (identical design to Jung Sia) neatly buttoned"
+        blouse: "white cotton blouse, collar flat, top button fastened"
+        skirt: "standard charcoal pleated school skirt at regulation length"
+        shoes: "polished black mary jane shoes"
+      cues:
+        braid_twirl: "she gently twirls one ponytail tip when anxious"
+
+
+  lee_cheoljin_18:
+    name_kr: "어린 이철진"
+    role: "18세, 고3 시절 — 반삭 머리 일진 보스"
+    signature:
+      hair:
+        style: "half-shaved buzz cut (반삭), longer top tousled forward"
+        strand_detail: "scalp-visible sides, top hair spiked with gel"
+        meaning: "defiance and dominance in school hierarchy"
+      face:
+        age: "18"
+        skin: "oily, sporadic acne, slight bruises:"...
+
+  jung_sia_10:
+    name_kr: "어린 정시아"
+    role: "10세, 순수하고 조용한 초등학생"
+    signature:
+      hair:
+        style: "neatly brushed long straight hair"
+        strand_detail: "secured by a small pink bow ribbon headband"
+        meaning: "innate innocence and tidy upbringing"
+      face:
+        age: "10"
+        skin: "smooth porcelain, rosy cheeks"
+        features: "large doe-like eyes, soft ...
+
+  kang_junhyuk_wife:
+    name_kr: "이서린"
+    role: "32세, 전직 레이싱 모델 출신 — 강준혁의 아내"
+    notes: |
+      화려한 스포트라이트를 떠난 뒤에도 여전히 빛나는 외모로 사람들의 시선을 사로잡는다.
+      표면적으로는 완벽한 가족의 상징이지만, 강준혁의 복수극에서는 보호받아야 할 순수함의 상징으로 대비된다.
+    signature:
+      hair:
+        style: "long caramel-brown waves"
+        strand_detail: "soft loose curls cascading to mid-back, subtle honey highlights"
+        meaning: "youthful glamour and gentle warmth"
+      face:
+        age: "32"
+        skin: "porcelain glow with soft blush, minimal makeup"
+        features: "almond eyes with brown hazel irises, softly arched brows, delicate nose, full rose-beige lips"
+        expression: "calm affectionate gaze, slight warm smile"
+      body:
+        build: "170 cm, slim athletic figure from years of modelling, graceful posture"
+        posture: "fluid movements, gentle hand gestures when comforting daughter"
+      outfit:
+        day_casual: "ivory silk blouse tucked in high-waist beige slacks, nude stilettos"
+        evening_event: "champagne satin slip dress with low back, diamond tennis bracelet"
+      accessories:
+        ring: "platinum engagement ring with 1.2 ct royal-blue sapphire flanked by tapered baguette diamonds"
+        earrings: "small platinum hoops with micropavé diamonds"
+        necklace: "thin rose-gold chain with tiny heart pendant"
+      cues:
+        protect_daughter: "instinctively steps forward, hand shielding daughter behind leg"
+        anxious_touch: "thumb rubs sapphire ring when sensing Junhyuk's tension"
+
+  kang_junhyuk_daughter:
+    name_kr: "강하은"
+    role: "5세, 강준혁·이서린의 외동딸 — 순수함의 절대적 상징"
+    signature:
+      hair:
+        style: "soft chestnut pigtails"
+        strand_detail: "two low pigtails tied with pastel lavender ribbons, loose baby curls"
+        meaning: "innocence and carefree joy"
+      face:
+        age: "5"
+        skin: "porcelain with rosy cheeks"
+        features: "round doe eyes, button nose, gap‑tooth smile"
+        expression: "bright laughter, slight dimple on left cheek"
+      body:
+        build: "110 cm, toddler soft build, clumsy bouncing walk"
+        posture: "arms often wide open for hugs"
+      outfit:
+        dress: "pastel yellow cotton pinafore dress with white eyelet lace collar"
+        shoes: "white Velcro strap sneakers"
+      accessories:
+        toy: "well‑worn white plush bunny with blue ribbon — named ‘Kkomi’"
+      cues:
+        bunny_hug: "when anxious, hugs Kkomi with eyes squeezed shut"

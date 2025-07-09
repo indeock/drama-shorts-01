@@ -1,0 +1,7 @@
+TC (s),CUT ID,Description,Characters,SFX/Text
+0-3,6-Hook,MS 호텔 연회장 블루 LED 스크린 점멸,박실장|스크린,LED 비프
+3-20,6-A,ECU 박실장 붉은 커프링크 LED 점멸,박실장,틱
+20-35,6-B,Montage: 일진9인 헤어·의상 모음컷,일진9,컷 전환 SFX
+35-55,6-C,ECU 규칙 스크롤 텍스트,–,스크롤 런
+55-70,6-D,CU 이철진 Zippo 라이터 딸깍,이철진,라이터 딸깍
+70-85,CTA,타이틀 카드+“EP7 ▶ 배틀로얄 서막”,–,swish+ding
